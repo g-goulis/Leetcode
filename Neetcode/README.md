@@ -2,8 +2,8 @@
 Folder structure for this section will go as follows
 
 - Question_Name (Folder)
-  - takeaways.txt
-  - statistics.txt
-  - code.java
+  - Takeaways.txt
+  - Statistics.txt
+  - Solution.java
 
  
