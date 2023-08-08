@@ -1,0 +1,5 @@
+https://leetcode.com/problems/valid-palindrome/submissions/
+
+- Fairly simple we will walk from both ends and when the characters don't match we return false
+- We will skip characters that aren't alphanumeric in the same loop and use continue to recheck pointer conditions
+- No real edge cases here other than empty strings

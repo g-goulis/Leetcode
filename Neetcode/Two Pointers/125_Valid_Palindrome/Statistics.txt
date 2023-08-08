@@ -1,7 +1,7 @@
 Runtime
-3ms
-Beats 94.18% of users with Java
+2ms
+Beats 39.71% of users with Java
 
 Memory
-41.92mb
-Beats 81.86% of users with Java
+45.42mb
+Beats 68.03% of users with Java
