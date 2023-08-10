@@ -1,0 +1,7 @@
+Runtime
+2ms
+Beats 39.71% of users with Java
+
+Memory
+45.42mb
+Beats 68.03% of users with Java

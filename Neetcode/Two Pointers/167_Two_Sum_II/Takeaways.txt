@@ -1,5 +1,5 @@
-https://leetcode.com/problems/valid-palindrome/submissions/
+https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
 
-- Fairly simple we will walk from both ends and when the characters don't match we return false
-- We will skip characters that aren't alphanumeric in the same loop and use continue to recheck pointer conditions
-- No real edge cases here other than empty strings
+- My initial approach here was wrong, remember the two pointers create a value, we can increase and decrease the value
+- We will move through the array and no condition needed for pointers as there IS a value present
+- My solution can be optimized, will include the most optimal java solution
